@@ -1,5 +1,7 @@
 # henoga
 
+
+
 Hosted on itch.io at https://kimeiga.itch.io/henoga. I was thinking of hosting it myself (on github pages or now.sh), but this is easier, and it has comments so I don't have to integrate them myself, and it has a game playing community already, so it's more likely to get exposure.
 
 https://www.heno.ga redirects to the itch.io. This was set up with Freenom.
